@@ -1,8 +1,10 @@
 {
   "name": "task-master",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "homepage": "https://domain-name.com",
+  "private": true,
+  "description": "In-house task management web application. Not available for commercial use.",
+  "keywords": ["Task management", "Task Master", "Task board", "INCo.", "Itsnice.company"],
   "main": "src/index.js",
   "dependencies": {
     "@emotion/react": "11.11.1",
